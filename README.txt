@@ -1,3 +1,8 @@
+ch-ds-dimutex
+=============
+
+[![Build Status](https://travis-ci.org/corehacker/ch-ds-dimutex.png?branch=master)](https://travis-ci.org/corehacker/ch-ds-dimutex)
+
 General Information
 ===================
 This package contains source code for the application that implements the
